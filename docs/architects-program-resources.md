@@ -2,7 +2,7 @@
 
 This file records the official Arc House / Arc Architects resources supplied for the `arc-xyz` knowledge base.
 
-> Source policy: keep the canonical URLs for live verification. Program terms, tiers, roles, benefits, and community guidance can change, so always re-check the official source before relying on them for an application or public communication.
+> Source policy: keep the canonical URLs for live verification. Program terms, tiers, roles, benefits, community guidance, and brand rules can change, so always re-check the official source before relying on them for an application or public communication.
 
 ## Official resources supplied
 
@@ -27,6 +27,27 @@ This file records the official Arc House / Arc Architects resources supplied for
 
 6. Circle Developer Brand Survey — May 26, 2026  
    https://community.arc.io/home/resources/circle-developer-brand-survey-2026-05-26
+
+### Arc branding
+
+7. Arc Brand Guidelines & Partner Toolkit  
+   https://www.arc.io/brand-guidelines-and-partner-toolkit
+
+8. Circle Pressroom — official Brand Kit / Arc logo downloads  
+   https://www.circle.com/pressroom
+
+The Arc Brand Guidelines and Partner Toolkit is the primary source for builders and partners using the Arc name, logo, and ecosystem language. The official Arc site also exposes a `Brand Kit` link in its footer. Circle's official Pressroom Brand Kit lists Arc among Circle's family of brands and provides approved Arc logo downloads.
+
+## Arc brand usage notes
+
+- Your own product/company brand should lead; Arc is the infrastructure.
+- Use Arc descriptively, for example: `Built on Arc`, `Available on Arc`, `Supports Arc`, or `Live on Arc`.
+- Do not make Arc appear to be your product/company name or imply endorsement that does not exist.
+- Use the latest approved Arc logo files from the official Circle Brand Kit.
+- Do not modify, recolor, distort, recreate, or add text/graphics over the Arc logo.
+- Do not make the Arc logo more prominent than your own branding.
+- Use `Arc Network` on first mention when needed, then `Arc` afterward.
+- For partner launches, co-marketing, paid media, or materials that could imply an approved relationship, check the current brand guidelines and approval requirements first.
 
 ## Resources visible in the supplied Arc House screenshot
 
@@ -60,6 +81,6 @@ The screenshot also lists these Arc community/documentation resource topics. The
 
 ## Verification record
 
-- Sources checked: official Arc House / Arc community pages and official Arc website.
+- Sources checked: official Arc House / Arc community pages, official Arc website, and official Circle Pressroom Brand Kit.
 - Verification date: 2026-09-06.
 - This repository stores a structured reference and source map; it does not claim to be a complete mirror of the Arc House website.
